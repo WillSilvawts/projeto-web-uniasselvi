@@ -1,4 +1,8 @@
-# Projeto WEB Uniasselvi 2023
+### Projeto WEB Uniasselvi 2023
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/iyddrflu-the-sans/pen/VwgKwba](https://codepen.io/iyddrflu-the-sans/pen/VwgKwba).
+Projeto Criado em Novembro / 2023.  
+Professora Zilma Carvalho  
+Turma: ADS
+
+Visite a página acessando a URL: [https://codepen.io/iyddrflu-the-sans/full/VwgKwba](https://codepen.io/iyddrflu-the-sans/full/VwgKwba).
 
